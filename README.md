@@ -17,4 +17,8 @@ Another good example is a product class. Different types of products can inherit
 
 <img width="268" alt="image" src="https://github.com/EMIRBEN001/OOPForum9/assets/114371873/11b395e1-5aec-4038-83ca-30de9fcf5946">
 
+2h. To keep track of the data, the classes must contain an attribute. There should also be a process for calculating the compensation that involves adding up all of the sales in a month and then using the right equations to arrive at the salary.  
+
+2i. When overloading is utilized in the SalesPerson class for the two constructors, polymorphism is seen.
+
 
