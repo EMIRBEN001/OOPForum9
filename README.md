@@ -13,7 +13,8 @@ Another good example is a product class. Different types of products can inherit
 
 2cii. since the object has an accessor method, but no mutator methods, then it can't be updated or changed in the future if needed to be.
 
-2d. 
+2d.
+
 <img width="268" alt="image" src="https://github.com/EMIRBEN001/OOPForum9/assets/114371873/11b395e1-5aec-4038-83ca-30de9fcf5946">
 
 
